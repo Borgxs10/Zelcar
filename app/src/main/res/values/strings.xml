@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zelcar</string>
+    <string name="channel_reminders">Lembretes de manutenção</string>
+    <string name="channel_summary">Resumo mensal de gastos</string>
+</resources>
